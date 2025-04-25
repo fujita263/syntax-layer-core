@@ -1,3 +1,8 @@
+📄 DOI Record: [10.5281/zenodo.15279460](https://zenodo.org/records/15279460)  
+→ Structure-based conversational output, documented in 2025.
+
+
+
 # syntax-layer-core
 Non-semantic structural response system for calming reflex howling
 
@@ -32,4 +37,15 @@ First published: April 2025
 Author: [Your name or pseudonym]
 
 This repository exists only as **a timestamped structural claim**.
+
+
+---
+
+## Citation & Record
+
+This structure-based, non-semantic output model was first observed and documented in clinical use in April 2025.
+
+📄 DOI: [10.5281/zenodo.15279460](https://zenodo.org/records/15279460)  
+Zenodo Archive: https://zenodo.org/records/15279460
+
 
